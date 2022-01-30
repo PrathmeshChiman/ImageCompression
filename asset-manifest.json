@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ImageCompression/static/css/main.d11aeb6d.css",
+    "main.js": "/ImageCompression/static/js/main.05ccfc4b.js",
+    "static/js/787.855d930d.chunk.js": "/ImageCompression/static/js/787.855d930d.chunk.js",
+    "index.html": "/ImageCompression/index.html",
+    "main.d11aeb6d.css.map": "/ImageCompression/static/css/main.d11aeb6d.css.map",
+    "main.05ccfc4b.js.map": "/ImageCompression/static/js/main.05ccfc4b.js.map",
+    "787.855d930d.chunk.js.map": "/ImageCompression/static/js/787.855d930d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d11aeb6d.css",
+    "static/js/main.05ccfc4b.js"
+  ]
+}
